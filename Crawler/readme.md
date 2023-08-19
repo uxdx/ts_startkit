@@ -1,4 +1,4 @@
-# Typescript-Nodejs Runtime starting package
+# Test PrdInfo
 
 If you want to test typescript code, this starter kit might help you.
 
